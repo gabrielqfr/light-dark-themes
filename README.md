@@ -2,6 +2,10 @@
 
 React app desenvolvido para demonstrar a funcionaliade de troca de tema claro e escuro com persistência de dados da escolha do tema do usuário.
 
+## Interface web
+
+![](interface.gif)
+
 ### Tecnologias
 
 - Typescript
